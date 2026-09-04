@@ -8,5 +8,6 @@ Argomenti affrontati finora:
 - Condizioni (`if`, `elif`, `else`)
 - Cicli (`for`, `while`)
 - Liste e dizionari
+- Funzioni
 - File
 - Errori ed eccezioni (`try` / `except`)
