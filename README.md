@@ -3,7 +3,7 @@
 
 In questo repository raccolgo gli esercizi svolti durante il mio percorso di studio di Python.
 
-Argomenti affrontati finora:
+Argomenti trattati:
 - Variabili e tipi di dati
 - Condizioni (`if`, `elif`, `else`)
 - Cicli (`for`, `while`)
