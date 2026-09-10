@@ -1,0 +1,5 @@
+print("Ciao, come ti chiami?")
+nome_utente = input()
+print("Ok "+str(nome_utente)+","+" quanti anni hai?")
+anni_utente = input()
+print("Ok,grazie delle informazioni!")

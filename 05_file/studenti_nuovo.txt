@@ -1,0 +1,5 @@
+Maria,8.0
+Davide,9.5
+Giuseppina,5.0
+Gianfranco,4.0
+Gianluigi,7.0

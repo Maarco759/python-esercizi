@@ -1,0 +1,6 @@
+Luca,8
+Marco,6
+Anna,9
+Giovanni,5
+Paolo,7
+Alessandro,10
